@@ -1,0 +1,62 @@
+RESUM I ANÀLISI MATEMÀTICA DEL MODEL (MATRIUS)
+
+1. REPRESENTACIÓ DEL SUBSTRAT
+φ_i = (θ_x, θ_y, θ_z)_i ∈ ℝ³
+Φ = (φ_1, φ_2, …, φ_{N³}) ∈ ℝ^{3N³}
+
+2. MATRIU D’ADJACÈNCIA I LAPLACIÀ
+A_ij = 1 si i i j són veïns ortogonals
+D = diag(6,6,6,…)
+L = D − A
+
+F = −LΦ
+∇·F = LΦ
+∇×F = C_curl Φ
+
+3. MATRIU D’EVOLUCIÓ
+Φ_{n+1} = Φ_n + xLΦ_n + x²|C_curl|Φ_n + x³HΦ_n
+M = I + xL + x²|C_curl| + x³H
+Φ_{n+1} = MΦ_n
+
+4. MODES ESTACIONARIS
+MΦ = Φ
+(M − I)Φ = 0
+La massa, l’espín i la càrrega són valors propis de M.
+
+5. VELOCITAT DE TRANSMISSIÓ
+Φ_n = exp(n x L) Φ_0
+λ_max(L) = 6
+C = 10^(2/x³)
+
+6. MASSA COM A VALOR PROPI TRANSVERSAL
+x²|C_curl|Φ = μΦ
+μ = ω₀
+E = ħω₀ = mc²
+m = ħ·λ_curl / C²
+
+7. Kx COM A DETERMINANT
+Kx = det(M)
+
+8. COSMOLOGIA MATRICIAL
+N³ My = Kx
+det(M) = 1
+N = C²
+
+
+------------------------------------------------------------
+QUADRE MATRICIAL (LLIST PER COPIAR)
+------------------------------------------------------------
+
+Φ = vector d’estat global
+A = matriu d’adjacència
+D = matriu de graus
+L = Laplacià = D − A
+F = flux = −LΦ
+C_curl = operador de rotació
+H = operador Heaviside
+M = I + xL + x²|C_curl| + x³H
+
+Valors propis:
+λ_mass = modes estacionaris
+λ_light = modes longitudinals
+λ_spin = modes transversals

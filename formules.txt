@@ -1,0 +1,125 @@
+FORMULES I EQUACIONS DEL MODEL CÚBIC OSCIL·LANT
+
+1. AXIOMA FONAMENTAL
+1 + x = 1/x
+x = 0.618034
+x² = 0.381966
+x³ = 0.236068
+φ = 1.618034
+k = 1.259921
+
+2. TENSIONS FONAMENTALS
+T_e = x
+T_c = x²
+T_r = x³
+Identitat: x − x² = x³
+
+3. EQUACIÓ D’EVOLUCIÓ
+θ(n+1) = θ(n) + T_e − T_c + T_r
+φ_i(n+1) = φ_i(n) + x·(∇·F)_i + x²·||(∇×F)_i|| + x³·Θ(Δ_micro − x³)
+
+4. CONSTANTS GEOMÈTRIQUES
+EP5 = 2/x³
+C = 10^(2/x³)
+N = C²
+Tp = C·My/7
+L = C²·My/7
+h = L·4π²
+ħ = h/(2π)
+
+5. CONSTANTS FÍSIQUES DERIVADES
+PM = (2π/(10√3·C))³·Kx
+Me = (1/2)^100·Kx·k
+e = (2π/(10√3·C))²·Kx·x³/2
+G = 2π^(3/2)/√3 · x³·L·C³/10
+α = 4π/C^(x²)
+Λ = 7·x⁹/N³
+T_CMB = 7·x²
+T_obs = 50·x²/7
+
+6. IDENTITATS EXACTES
+N = C²
+h = L·4π²
+L = ħ/2π
+x − x² = x³
+10^(EP5·x³) = 100
+N³·My = Kx
+δθ = H₀ = 1/T_visible
+
+7. SÈRIES SANKHYA
+Compressive = 1/7
+Expansive = 10^φ
+res_N = 1/k
+rs = 50/49
+Coherence = 8
+Kx = k·10^φ/(56·rs)
+
+8. Px I MASSES
+Px = (10√3/2π)³
+PM = Kx/(Px·C³)
+Ne = h/7
+My = Kx/C⁶
+
+9. RELATIVITAT EMERGENT
+My·C² = 7·L
+L = ħ/(2π)
+ω₀ = 7/(2π)
+E = ħω
+E = mc²
+E² = p²C² + m²C⁴
+
+10. COSMOLOGIA
+R_llavor = N·L
+T_visible = N/x³
+T_manifest = 2πN/x³
+T_inmanifest = N²/x³
+R_obs = C³/x³
+δθ = x³/N
+
+
+------------------------------------------------------------
+QUADRE DE VALORS NUMÈRICS (LLIST PER COPIAR)
+------------------------------------------------------------
+
+x = 0.618034
+x² = 0.381966
+x³ = 0.236068
+φ = 1.618034
+k = 1.259921
+rs = 1.020408
+Coherence = 8
+Compressive = 0.142857
+Expansive = 41.49865
+res_N = 0.793700
+
+EP5 = 8.472135
+C = 2.9658×10⁸ m/s
+N = 8.7957×10¹⁶
+Tp = 5.6969×10⁻⁴⁴ s
+L = 1.6896×10⁻³⁵ m
+h = 6.6701×10⁻³⁴ J·s
+ħ = 1.0619×10⁻³⁴ J·s
+
+Kx = 0.914988
+Px = 20.947986
+My = 1.3446×10⁻⁵¹ kg
+Ne = 9.5288×10⁻³⁵ kg
+Me = 9.0941×10⁻³¹ kg
+PM = 1.6744×10⁻²⁷ kg
+e = 1.6158×10⁻¹⁹ C
+G = 6.6898×10⁻¹¹ m³/kg·s²
+α = 7.29696×10⁻³
+
+T_visible = 11.81 Gyr
+T_manifest = 74.2 Gyr
+T_inmanifest = 1.0384×10¹⁸ Gyr
+R_llavor = 1.4861×10⁻¹⁸ m
+R_obs = 1.1050×10²⁶ m
+δθ = 2.6839×10⁻¹⁸
+Λ = 1.3533×10⁻⁵² m⁻²
+T_CMB = 2.6738 K
+T_obs = 2.7283 K
+
+ω₀ = 1.1140846 rad/s
+E_protó = 919 MeV
+E_electró = 0.511 MeV
