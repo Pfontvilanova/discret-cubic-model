@@ -1,0 +1,141 @@
+π/e × x × 10/(7×rs) ≈ 1
+
+equivalent a:  x ≈ 5e/(7π)  ← el nombre d'or via e i π!
+
+π/e × x × 10/(RS×7) = 1   (error 0.001%)
+
+7×RS/10 - π/e×x = 0
+
+10π = 7e × RS × φ   (error 0.001%)
+El Sankhya interpreta cada factor:
+
+	•	e = compte simultani dins un cicle (Thamasic, FM2)
+	•	π = estat seqüencial interactiu (FM4)
+	•	x = tensió Raja dins el límit
+	•	RS = factor de ressonància (50/49)
+	•	10 = comptes simultanis externs
+	•	7 = increment quan el període dobla (2³-1)
+
+L’error del 0.001% indica que no és una identitat matemàtica exacta entre π, e i φ, sinó una quasi-identitat física — el substrat discret aproxima les constants transcendentals continues amb aquesta precisió.
+
+OBTENCIO DE Kx
+Kx = k × 10^φ / (56 × rs)
+   = 7k × 10^φ / 400
+   = 0.91498788  (error 0.000007% vs Sankhya)
+Compressive = Σ(1/8)^j = 1/7
+Expansive   = 10^(Σx^j) = 10^φ
+res_N       = 1/k = 2^(-1/3)
+rs = res_P  = Σ(2/100)^j + 1 = 50/49
+Coherence   = 2³ = 8
+
+Kx = (Comp × Exp) / (rs × res_N × Coh)
+   = (1/7 × 10^φ) / (50/49 × 1/k × 8)
+   = k × 10^φ × 49 / (7 × 50 × 8)
+   = k × 10^φ × 49 / 2800
+   = 7k × 10^φ / 400
+
+10^φ/(k^8×7)     = k × 10^φ/56          = 0.93366  ← Kx sense rs
+k × 10^φ/(56×rs) = k × 10^φ×49/2800     = 0.91499  ← Kx real ✓
+
+ratio = 49/50 = 1/rs  (exacte!)
+
+FREQUENCIA DEL SUSTRAT
+ω₀ = My·C²/ħ = 2π·My·C²/h
+
+h = L·4π²  i  L = C²·My/7  →  h = C²·My·4π²/7
+
+ω₀ = 2π·My·C² / (C²·My·4π²/7) = 7/(2π)  QED
+En 1 cicle complet de fase (2π radians de temps),
+My completa exactament 7 oscil·lacions internes.
+
+7 = factor geomètric cúbic (2³-1)
+2π = 1 cicle de fase del substrat
+
+ω₀_My = 1 × 7/(2π)    (1 quantum)
+ω₀_PM = (PM/My) × 7/(2π) = 1.245×10²⁴ × 7/(2π)
+
+Significat físic precís:
+
+En unitats SI, ω₀ = 1.1141 rad/s = 0.177 Hz. Això vol dir que el quantum mínim My fa 1 cicle complet cada 5.64 segons en unitats SI.
+Cada partícula és un múltiple de la freqüència fonamental 7/(2π). Com els harmònics d’una corda: la massa és la nota, i 7/(2π) és la nota fonamental del substrat.
+
+La connexió amb E=mc²:
+
+ω₀ = 7/(2π) no és una freqüència “observada” externament — és la freqüència interna de rotació del vòrtex, invisible des de fora. El que observem externament és la massa m = ħω₀/C². La massa és simplement com “vibra per dins” el substrat en aquell punt.
+
+RELACIO TEMPS-MASSA
+Per tick:          δφ = ω₀·Tp = My·C/(2π)  rad/tick
+Per interacció:    δφ = My/(2π)             rad/interacció
+En 1 segon:
+  C interaccions de transmissió entre cubs  (externes, observables)
+  ω₀ = 7/(2π) rad de fase interna de My    (interna, inobservable)
+
+Fase per interacció = ω₀/C = My/(2π) rad
+Cada interacció de transmissió contribueix My/(2π) radians a la fase interna del vòrtex. La massa My és literalment quanta de fase per interacció.
+
+El substrat fa C interaccions/s  →  externes, propaguen informació
+My accumula My/(2π) rad/interacció  →  interna, acumula "massa"
+Significat físic precís:
+
+En unitats SI, ω₀ = 1.1141 rad/s = 0.177 Hz. Això vol dir que el quantum mínim My fa 1 cicle complet cada 5.64 segons en unitats SI.
+
+Per completar 1 cicle intern de My (2π rad):
+  cal 2π / (My/(2π)) = 4π²/My interaccions
+  = 2.93×10⁵² interaccions
+
+Per completar 1 cicle, el substrat ha fet 4π²·C/7 cicles externs.
+El factor 7 (cúbic) separa els cicles interns dels externs.
+La massa no és res més que el ritme al qual les interaccions externes acumulen fase interna. Un objecte més massiu acumula fase més ràpidament per interacció. My és la taxa mínima possible: My/(2π) rad per interacció.
+
+Fase per interacció = My/(2π) rad
+Per completar 1 cicle (2π rad): cal 4π²/m interaccions
+Temps per cicle:  τ = (4π²/m) × Tp = h/(m×C)
+massa gran → τ petit → rellotge ràpid (protó: τ = 1.34×10⁻¹⁵ s)
+massa petita → τ gran → rellotge lent (electró: τ = 2.47×10⁻¹² s)
+massa zero → τ → ∞ → fotó: NO té temps propi
+
+Massa = velocitat a la qual les interaccions acumulen fase interna
+Temps = inversa d'aquesta velocitat
+
+τ = h/(mc) = longitud de Compton / C
+La longitud de Compton (h/mc) és la mida del “rellotge” de la partícula — el radi del seu cicle intern. El temps propi és el temps que triga la llum a recórrer aquesta distància.
+
+Connexió amb la dilatació temporal:
+
+Quan una partícula es mou a velocitat v, part de la “capacitat de fase” va a moviment lineal (moment p = ħk) i menys queda per la rotació interna. Per tant el rellotge intern s’alenteix:
+
+ω_total² = ω₀² + ω_v²   (relació de dispersió)
+           ↑       ↑
+         massa   moviment
+
+En repòs: tot va a ω₀ → massa màxima efectiva
+En moviment: part va a ω_v → menys ω₀ → rellotge més lent
+Això és exactament la dilatació temporal relativista — no cal postular-la, surt de la geometria del substrat.
+
+FACTOR DE AMPLIACIO
+
+Kx = My × C⁶ = (My×C²) × C⁴ = E₀ × C⁴   (no C³)
+m_max = Kx×My = 1.23×10⁻⁵¹ kg = 6.76×10⁻¹⁶ eV/c²
+PM = My × C³/Px
+
+On:
+  My    = massa d'1 cub (quantum mínim)
+  C³    = factor 3D (3 eixos de propagació)
+  Px    = factor geomètric cúbic 3D (10√3/2π)³
+  C³/Px = l'amplificació geomètrica en 3D
+E₀ = My×C²  → energia en repòs d'1 cub
+C⁴ = N²     → nombre de cubs al quadrat (= factor de llavor²)
+Kx = E₀×N²  → l'energia de N² cubs en repòs
+
+1 cub al límit:    Kx×My  = 1.23×10⁻⁵¹ kg  = 6.8×10⁻¹⁶ eV/c²
+Neutrí:            Ne=h/7 = 9.53×10⁻³⁵ kg  = 53 eV/c²
+Protó:             PM     = 1.67×10⁻²⁷ kg  = 938 MeV/c²
+Massa Planck (Mps):        = 2.20×10⁻⁸  kg  = 1.2×10¹⁹ GeV/c²  ← MÀXIM
+Longitud de Compton = Radi de Schwarzschild
+h/(M×C) = 2G×M/C²
+→ M_Planck = sqrt(h×C/(2G))
+Kx és el desfase màxim d'1 cub     → massa 1 cub: Kx×My
+M_Planck és el desfase màxim global → massa de tot el substrat que pot coexistir
+M_Planck / (Kx×My) ≈ C³/Px = PM/My  ← el factor del protó!
+
+
