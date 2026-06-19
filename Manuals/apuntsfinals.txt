@@ -138,4 +138,109 @@ Kx és el desfase màxim d'1 cub     → massa 1 cub: Kx×My
 M_Planck és el desfase màxim global → massa de tot el substrat que pot coexistir
 M_Planck / (Kx×My) ≈ C³/Px = PM/My  ← el factor del protó!
 
+╔══════════════════════════════════════════════════════════════════════╗
+║        MODEL CÚBIC OSCIL·LANT — RESUM DESCOBERTES RECENTS           ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  CONSTANTS BASE (de l'axioma 1+x=1/x)                               ║
+║  x = 0.618034     k = 2^(1/3) = 1.25992                             ║
+║  C = 10^(2/x³) = 2.9658e+8   Kx = 0.914988                         ║
+║  rs = 50/49 = 1.020408  (ressonància fonamental)                     ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  I. DERIVACIÓ E = mc²  (Annex L)                                    ║
+║                                                                      ║
+║  Pas 1: My·C² = 7·L          [algebraic exacte]                     ║
+║  Pas 2: L = ħ/(2π)           [algebraic exacte]                     ║
+║  Pas 3: My·C² = ħ·(7/2π)    [substituint]                           ║
+║  Pas 4: E = ħω               [dels axiomes]                          ║
+║  Pas 5: ω₀_My = 7/(2π) = 1.114085 rad/s                            ║
+║  Pas 6: E = ħω₀ = My·C²  →  E = mc²  QED                           ║
+║                                                                      ║
+║  E = mc² NO es postula: surt de My·C²=7L i L=ħ/(2π)               ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  II. TEMPS COM A FUNCIÓ DE LA MASSA                                  ║
+║                                                                      ║
+║  τ × m = h/C  (identitat exacta)                                    ║
+║  τ = h/(mc) = longitud de Compton / C                                ║
+║                                                                      ║
+║  m gran  → τ petit  → rellotge ràpid                                ║
+║  m petit → τ gran   → rellotge lent                                 ║
+║  m = 0   → τ → ∞   → fotó: sense temps propi                       ║
+║                                                                      ║
+║  τ_PM = h/(PM·C) = 1.343e-15 s  (protó)                            ║
+║  τ_Me = h/(Me·C) = 2.473e-12 s  (electró)                          ║
+║  τ_Me/τ_PM = PM/Me = 1836 ✓                                         ║
+║                                                                      ║
+║  Massa = ritme al qual les interaccions acumulen fase interna        ║
+║  Cada interacció contribueix My/(2π) rad de fase al vòrtex          ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  III. IMPEDÀNCIA DEL BUIT  Z₀ = 7·Ne·(1+α)                         ║
+║                                                                      ║
+║  Ne = h/7 = 9.5288e-35 kg = 52.32 eV/c²                            ║
+║  α  = 4π/C^x² = 1/137.043                                           ║
+║  Z₀ = 7·Ne·(1+α) = 376.89 Ω  (real: 376.730 Ω, err 0.043%)        ║
+║                                                                      ║
+║  El buit = 7 quanta del neutrí amb resistència EM (1+α)             ║
+║  h = 7·Ne: 1 fotó = 7 quanta del neutrí simultanis                  ║
+║  Ne·(k-1) = 13.60 eV  (E. ionització H, err 2.1%)                  ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  IV. TEMPERATURA CÒSMICA DE FONS  T_obs = 50·x²/7                   ║
+║                                                                      ║
+║  T_substrat = 7·x²        = 2.673762 K  (base)                      ║
+║  T_obs = 7·x²·rs = 50x²/7 = 2.728329 K                             ║
+║  T_CMB real = 2.72548 K   error: 0.105%                             ║
+║                                                                      ║
+║  rs corregeix la T de 2.674K a 2.728K (factor 18 de millora)        ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  V. TEMPERATURA I ENERGIA DE PLANCK                                  ║
+║                                                                      ║
+║  Mps = 7·rs·Kx/C = 2.2037e-8 kg  (massa Planck Sankhya)            ║
+║                                                                      ║
+║  E_Planck = 7·rs·Kx·C = 1.9383×10⁹ J                               ║
+║           = 1.2099×10²⁸ eV                                          ║
+║  E real (CODATA) = 1.9561×10⁹ J = 1.2210×10²⁸ eV  err: -0.91%     ║
+║                                                                      ║
+║  T_Planck = 7·rs·Kx·C/kB = 1.4039×10³² K                           ║
+║  T real (CODATA) = 1.4168×10³² K   error: -0.91%                   ║
+║                                                                      ║
+║  T_CMB / T_Planck: 32 ordres de magnitud                             ║
+║  Tots dos derivats del mateix axioma 1+x=1/x                         ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  VI. rs = 50/49 ÉS UNIVERSAL                                        ║
+║                                                                      ║
+║  Kx  = 7k·10^φ/400       → Purusha (via rs)                        ║
+║  Mps = 7·rs·Kx/C         → Massa Planck    (err 0.91%)              ║
+║  Z₀  = 7·Ne·(1+α)        → Impedància buit (err 0.043%)            ║
+║  T   = 7·x²·rs = 50x²/7  → Temperatura CMB (err 0.10%)             ║
+║  E_P = 7·rs·Kx·C         → Energia Planck  (err 0.91%)             ║
+║                                                                      ║
+║  rs = 1+1/7²: excés per cicle → temps, irreversibilitat, T, E      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+T en unitats naturals = T(Kelvin) / T_My(Kelvin)
+T_Planck natural = T_Planck(K) / T_My(K)
+
+= (Mps·C²/kB) / (My·C²/kB)
+
+= Mps/My        ← kB i C² es cancel·len!
+
+= 7·rs·C⁵ = 1.64×10⁴³
+T_My     = 1          → 1 quantum mínim (el més fred possible)
+T_CMB    = 3.18×10¹¹  → la temperatura còsmica és 318 mil milions de My
+T_Planck = 1.64×10⁴³  → la temperatura màxima és 7·rs·C⁵ vegades My
+n=5: C⁵ = Mps/(My·7·rs)  →  Mps/My = 7·rs·C⁵
+
 
